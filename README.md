@@ -1,1 +1,1 @@
-# mongodb_test_runner
+# mongodb-test-runner
