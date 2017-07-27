@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-test-runner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malexandert/mongodb-test-runner.git"
+  },
+  "author": "Marcus Todd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malexandert/mongodb-test-runner/issues"
+  },
+  "homepage": "https://github.com/malexandert/mongodb-test-runner#readme",
+  "devDependencies": {
+    "eslint": "^4.3.0"
+  }
+}
