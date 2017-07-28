@@ -15,5 +15,11 @@
   "homepage": "https://github.com/malexandert/mongodb-test-runner#readme",
   "devDependencies": {
     "eslint": "^4.3.0"
+  },
+  "dependencies": {
+    "metamocha": "^1.2.0",
+    "mocha": "^3.4.2",
+    "mongodb-topology-manager": "^1.0.13",
+    "optimist": "^0.6.1"
   }
 }
