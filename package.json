@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "metamocha": "^1.2.0",
+    "mongodb-core": "^2.1.15",
     "mongodb-topology-manager": "^1.0.13",
     "mongodb-version-manager": "^1.0.7",
     "yargs": "^8.0.2"
