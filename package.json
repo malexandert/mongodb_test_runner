@@ -20,6 +20,6 @@
     "metamocha": "^1.2.0",
     "mongodb-topology-manager": "^1.0.13",
     "mongodb-version-manager": "^1.0.7",
-    "optimist": "^0.6.1"
+    "yargs": "^8.0.2"
   }
 }
