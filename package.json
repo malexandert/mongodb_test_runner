@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/malexandert/mongodb-test-runner.git"
   },
+  "bin": {
+    "mongodb-test-runner": "./lib/runner.js"
+  },
   "author": "Marcus Todd",
   "license": "MIT",
   "bugs": {
