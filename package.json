@@ -20,7 +20,7 @@
     "eslint": "^4.3.0"
   },
   "dependencies": {
-    "metamocha": "^1.2.0",
+    "metamocha": "^1.2.3",
     "mongodb-core": "^2.1.15",
     "mongodb-topology-manager": "^1.0.13",
     "mongodb-version-manager": "^1.0.7",
