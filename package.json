@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "metamocha": "^1.2.5",
-    "mongodb-topology-manager": "^1.0.13",
+    "mongodb-topology-manager": "christkv/mongodb-topology-manager#3.0.0",
     "mongodb-version-manager": "^1.0.7",
     "semver": "^5.4.1",
     "yargs": "^8.0.2"
