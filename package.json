@@ -15,9 +15,15 @@
   "bugs": {
     "url": "https://github.com/malexandert/mongodb-test-runner/issues"
   },
+  "scripts": {
+    "format": "prettier --print-width 100 --tab-width 2 --single-quote --write lib/**/*.js lib/*.js",
+    "lint": "eslint lib"
+  },
   "homepage": "https://github.com/malexandert/mongodb-test-runner#readme",
   "devDependencies": {
-    "eslint": "^4.3.0"
+    "eslint": "^4.3.0",
+    "eslint-plugin-prettier": "^2.2.0",
+    "prettier": "^1.6.1"
   },
   "dependencies": {
     "metamocha": "^1.2.5",
