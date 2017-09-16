@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/malexandert/mongodb-test-runner.git"
+    "url": "git+https://github.com/mongodb-js/mongodb-test-runner.git"
   },
   "bin": {
     "mongodb-test-runner": "./lib/runner.js"
@@ -13,13 +13,13 @@
   "author": "Marcus Todd",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/malexandert/mongodb-test-runner/issues"
+    "url": "https://github.com/mongodb-js/mongodb-test-runner/issues"
   },
   "scripts": {
     "format": "prettier --print-width 100 --tab-width 2 --single-quote --write lib/**/*.js lib/*.js",
     "lint": "eslint lib"
   },
-  "homepage": "https://github.com/malexandert/mongodb-test-runner#readme",
+  "homepage": "https://github.com/mongodb-js/mongodb-test-runner#readme",
   "devDependencies": {
     "eslint": "^4.3.0",
     "eslint-plugin-prettier": "^2.2.0",
@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "metamocha": "^1.2.5",
-    "mongodb-topology-manager": "^1.0.13",
+    "mongodb-topology-manager": "mongodb-js/mongodb-topology-manager#3.0.0",
     "mongodb-version-manager": "^1.0.7",
     "semver": "^5.4.1",
     "yargs": "^8.0.2"
