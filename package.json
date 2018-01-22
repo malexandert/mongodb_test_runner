@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/mongodb-js/mongodb-test-runner.git"
   },
+  "engines": {
+    "node": ">=4"
+  },
   "bin": {
     "mongodb-test-runner": "./lib/runner.js"
   },
