@@ -28,7 +28,7 @@
   "dependencies": {
     "metamocha": "^1.2.5",
     "mongodb-topology-manager": "^2.0.0",
-    "mongodb-version-manager": "^1.0.7",
+    "mongodb-version-manager": "^1.4.0",
     "semver": "^5.4.1",
     "yargs": "^8.0.2"
   },
